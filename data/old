@@ -1,0 +1,11 @@
+{
+	"animaux": [{
+		"espece": "cachalot"
+	}, {
+		"espece": "lion"
+	}, {
+		"espece": "cochon d'inde"
+	}, {
+		"espece": "ornithorynque"
+	}]
+}
